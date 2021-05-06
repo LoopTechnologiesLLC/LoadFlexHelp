@@ -1,11 +1,11 @@
 {
-  Categories: [
+     "Categories": [
     {
-      Label: "Loads",
-      Pages: [
+      "Label": "Loads",
+      "Pages": [
         {
-            Label: "Creating A Load",
-            File: "Loads_Creating.md"
+            "Label": "Creating A Load",
+            "File": "Loads_Creating.md"
         }
       ]
     }
